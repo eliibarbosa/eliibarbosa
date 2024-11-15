@@ -16,5 +16,5 @@ O e-book combina uma abordagem estética moderna com conteúdo psicanalítico e 
 
 [LINK PARA O E-BOOK AQUI](https://untitled-p5vt2gl.gamma.site/)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar este e-book foi uma jornada de aprendizado e inovação, explorando como a tecnologia pode complementar o entendimento dos nossos processos mentais e emocionais. A IA surge aqui como um aliado para construir um conteúdo rico e acessível
