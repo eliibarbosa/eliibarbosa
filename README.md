@@ -4,12 +4,12 @@
 Este e-book de 6 páginas revela como o uso de IAs Generativas pode oferecer novos insights sobre autoestima e padrões inconscientes, unindo tecnologia e psicanálise para um autoconhecimento mais profundo e transformador.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para criação e refinamento do conteúdo;
-Gamma App para organizar e estruturar o e-book de maneira visual e intuitiva;
-Microsoft Designer para o design gráfico e a criação da capa, garantindo um visual profissional e impactante.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para criação e refinamento do conteúdo;
+- IA Generativa **[Gamma App](https://gamma.app/)** para organizar e estruturar o e-book de maneira visual e intuitiva;
+- **Microsoft Designer** para o design gráfico e a criação da capa, garantindo um visual profissional e impactante.
 
 ## 🧐 Processo de Criação
-O conteúdo foi desenvolvido com o apoio do ChatGPT, que facilitou a roteirização e aprofundamento dos temas. A estruturação visual foi feita no Gamma App, aproveitando sua interface simplificada para organizar as ideias e seções. Por fim, o Microsoft Designer foi essencial para dar vida ao design da capa e do conteúdo interno, unindo criatividade e clareza visual.
+O conteúdo foi desenvolvido com o apoio do ChatGPT, que facilitou a roteirização e aprofundamento dos temas. A estruturação visual foi feita no Gamma App, aproveitando sua interface simplificada para organizar as ideias e seções. Por fim, o Microsoft Designer foi essencial para dar vida ao design da capa, unindo criatividade e clareza visual.
 
 ## 🚀 Resultados
 O e-book combina uma abordagem estética moderna com conteúdo psicanalítico e insights sobre padrões inconscientes, trazendo uma experiência envolvente para quem busca aprofundar-se em autoconhecimento.
